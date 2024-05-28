@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surendragt19" alt="surendragt19" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/its_surendra203" target="blank"><img src="https://img.shields.io/twitter/follow/its_surendra203?logo=twitter&style=for-the-badge" alt="its_surendra203" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/surendra-kumar-gupta-064294232/?originalsubdomain=in" target="blank"><img src="https://img.shields.io/badge/-Connect%20with%20me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="surendra-kumar-gupta-064294232" /></a> </p>
 
 - 🔭 I’m currently working on [E Commerce App](https://github.com/surendragt19/E-Commerce-APP)
 

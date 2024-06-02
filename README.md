@@ -33,4 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surendragt19&show_icons=true&locale=en" alt="surendragt19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surendragt19&" alt="surendragt19" /></p>
-Replace the twitter follow me to linkedin 

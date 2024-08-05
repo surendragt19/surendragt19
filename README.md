@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/surendra-kumar-gupta-064294232/?originalsubdomain=in" target="blank"><img src="https://img.shields.io/badge/-Connect%20with%20me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="surendra-kumar-gupta-064294232" /></a> </p>
 
-- 🔭 I’m currently working on [Real Time Chat Application](https://github.com/surendragt19/E-Commerce-APP)
+- 🔭 I’m currently working on [Real Time Chat Application](https://github.com/surendragt19/Real-Time-Chat-App/tree/main)
 
 - 🌱 I’m currently learning **MERN STACK**
 

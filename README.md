@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Real Time Chat Application](https://github.com/surendragt19/Real-Time-Chat-App/tree/main)
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **NextJS**
 
-- 💬 Ask me about **ReactJS,NodeJS,EpressJS,MongoDB,PHP,**
+- 💬 Ask me about **MERN Stack, JavaScript, Typescript, PHP, DSA(C++)**
 
 - 📫 How to reach me **surendra203niet@gmail.com**
 
